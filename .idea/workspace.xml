@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8748883a-082e-4a78-b19f-bb43b61c29c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Form/CategoryType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/ProgramType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/category/new.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/program/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/EpisodeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/SeasonController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Form/EpisodeType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Form/SeasonType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/episode/_delete_form.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/episode/_form.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/episode/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/episode/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/episode/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/episode/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/season/_delete_form.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/season/_form.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/season/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/season/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/season/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/season/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/CategoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ProgramController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ProgramController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Program.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Program.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +215,7 @@
       <workItem from="1608997511865" duration="6918000" />
       <workItem from="1609085268924" duration="6129000" />
       <workItem from="1609283777109" duration="2772000" />
-      <workItem from="1609369395035" duration="400000" />
+      <workItem from="1609369395035" duration="1262000" />
     </task>
     <servers />
   </component>
