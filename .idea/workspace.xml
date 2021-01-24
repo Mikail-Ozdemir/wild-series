@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8748883a-082e-4a78-b19f-bb43b61c29c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/migrations/Version20210124203641.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/ActorController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Actor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/ActorRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/actor/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/actor/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/CategoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ProgramController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ProgramController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Category.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Entity/Program.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Program.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/program/new.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/program/new.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/program/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/program/show.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +156,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/actor" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -166,6 +169,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/actor" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/src/Controller" />
@@ -206,6 +210,10 @@
       <workItem from="1609283777109" duration="2772000" />
       <workItem from="1609369395035" duration="1764000" />
       <workItem from="1609631401412" duration="769000" />
+      <workItem from="1609712088513" duration="615000" />
+      <workItem from="1609716513731" duration="433000" />
+      <workItem from="1610021322625" duration="65000" />
+      <workItem from="1611519695340" duration="1499000" />
     </task>
     <servers />
   </component>
