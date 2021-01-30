@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8748883a-082e-4a78-b19f-bb43b61c29c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DataFixtures/ActorFixtures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFixtures/CategoryFixtures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFixtures/EpisodeFixture.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFixtures/ProgramFixtures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFixtures/SeasonFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wild-series.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wild-series.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Form/ProgramType.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form/ProgramType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +140,9 @@
       <path value="$PROJECT_DIR$/vendor/symfony/intl" />
       <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
       <path value="$PROJECT_DIR$/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
     </include_path>
   </component>
   <component name="ProblemsViewState">
@@ -207,7 +221,9 @@
       <workItem from="1609716513731" duration="433000" />
       <workItem from="1610021322625" duration="65000" />
       <workItem from="1611519695340" duration="2131000" />
-      <workItem from="1611610319681" duration="48000" />
+      <workItem from="1611610319681" duration="237000" />
+      <workItem from="1611991156650" duration="1203000" />
+      <workItem from="1612032958528" duration="2283000" />
     </task>
     <servers />
   </component>
